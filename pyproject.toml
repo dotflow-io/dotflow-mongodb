@@ -1,6 +1,6 @@
 [project]
 name = "dotflow_mongodb"
-version = "0.1.1"
+version = "0.1.2"
 authors = [
   { name="Fernando Celmer", email="email@fernandocelmer.com" },
 ]
@@ -31,7 +31,7 @@ Documentation = "https://github.com/dotflow-io/dotflow-mongodb/blob/master/READM
 
 [tool.poetry]
 name = "dotflow_mongodb"
-version = "0.1.1"
+version = "0.1.2"
 description = "Dotflow Storage MongoDB"
 authors = ["Fernando Celmer <email@fernandocelmer.com>"]
 readme = "README.md"
