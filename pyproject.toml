@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
 	"dotflow",
-  "pymongo==0.10.0.dev1"
+  "pymongo"
 ]
 classifiers = [
   'Development Status :: 4 - Beta',
