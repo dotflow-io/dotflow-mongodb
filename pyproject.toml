@@ -9,7 +9,8 @@ description = "Dotflow Storage MongoDB"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
-	"dotflow"
+	"dotflow",
+  "pymongo"
 ]
 classifiers = [
   'Development Status :: 4 - Beta',
@@ -52,7 +53,8 @@ classifiers = [
 
 [tool.poetry.dependencies]
 python = ">=3.9.0"
-dotflow = "^0.9.1"
+dotflow = "0.10.0.dev1"
+pymongo = "^4.11.2"
 
 [tool.poetry.group.dev.dependencies]
 build = "^1.2.2.post1"
